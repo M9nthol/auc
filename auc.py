@@ -325,7 +325,7 @@ def handle_callback_query_item(call):
         "a78": ("969jz"),
         "a79": ("5lv9o"),
         "a80": ("j56d6"),
-        "a82": ("RMB-93")
+        "a82": ("wj7v3")
 
 
 
